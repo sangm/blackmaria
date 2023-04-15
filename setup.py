@@ -21,7 +21,7 @@ setup(
     install_requires=[
         'bs4',
         'python-dotenv',
-        "guardrails-ai==0.1.4",
+        "guardrails-ai==0.1.5",
         "gpt-index==0.4.39"
     ],
     
